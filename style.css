@@ -606,7 +606,7 @@ a:hover{
     margin: 0px 0px 20px 120px;
     width: 400px;
     height: 300px;
-    background-image: url(./screenshots/bikingSnowww.jpg);
+    background-image: url(./screenshots/3.png);
     background-size: cover;
 }
 .author_el2{
@@ -622,6 +622,14 @@ a:hover{
     width: 300px;
     height: 200px;
     background-image: url(./screenshots/Design_an_immersive_and_visually_appealing_menu_for_our_extreme.png);
+    background-size: cover;
+}
+
+.el2_9{
+    margin: 50px 0px 20px 50px;
+    width: 300px;
+    height: 200px;
+    background-image: url(./screenshots/panel.jpg);
     background-size: cover;
 }
 
@@ -774,6 +782,13 @@ a:hover{
         height: 200px;
         /* background-image: url(./D09AD0B5D0B9D181-5.jpg); */
         background-size: cover;
+    }
+    .el2_9{
+        margin: 0 ;
+        width: 300px;
+        height: 200px;
+        /* background-image: url(./D09AD0B5D0B9D181-5.jpg); */
+        background-size: cover; 
     }
 
     .author_el2_1{
@@ -988,6 +1003,16 @@ a:hover{
     }
     
     .el2_1{
+        margin: 0 ;
+        width: 300px;
+        height: 200px;
+        /* background-image: url(./D09AD0B5D0B9D181-5.jpg); */
+        /* background-size: cover; */
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .el2_9{
         margin: 0 ;
         width: 300px;
         height: 200px;
